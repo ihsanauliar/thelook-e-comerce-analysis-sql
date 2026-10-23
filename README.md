@@ -12,10 +12,10 @@ Melalui serangkaian query SQL dalam repositori ini, saya menjawab beberapa perta
 
 ## SQL Skills Demonstrated
 Proyek ini mendemonstrasikan penggunaan teknik manipulasi dan analisis data menggunakan SQL, meliputi:
-* **Data Aggregation:COUNT`, `SUM`, `AVG`, `MIN`, `MAX`
-* **Data Grouping & Filtering:`GROUP BY`, `HAVING`, `WHERE`, `IN`, `BETWEEN`
-* **Multi-table Joins:Menggabungkan tabel `orders`, `order_items`, dan `products` menggunakan `JOIN`
-* **Data Formatting & Distinct Values:ROUND()`, `COUNT(DISTINCT)`
+* **Data Aggregation:COUNT,SUM, AVG, MIN, MAX
+* **Data Grouping & Filtering:GROUP BY, HAVING, WHERE, IN, BETWEEN
+* **Multi-table Joins: Menggabungkan tabel orders, order_items, dan products menggunakan JOIN
+* **Data Formatting & Distinct Values:ROUND(), COUNT(DISTINCT)
 * **Subqueries:penggunaan subquery dasar untuk *conditional filtering*.
 
 ## Dataset Source
